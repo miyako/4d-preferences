@@ -42,4 +42,5 @@
 
 [4D Preferences v17.4DPreferences](https://github.com/miyako/4d-preferences/blob/master/4D%20Preferences%20v17.4DPreferences)
 
-<img width="453" alt="2018-07-12 13 11 28" src="https://user-images.githubusercontent.com/1725068/42612253-4a0670f4-85d5-11e8-84d2-c9d5f9458c1f.png">
+<img width="428" alt="2018-07-20 14 06 35" src="https://user-images.githubusercontent.com/1725068/42984172-33b40d82-8c26-11e8-9807-474fa4479507.png">
+
